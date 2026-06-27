@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/conway/META"
+  "_build/install/default/lib/conway/dune-package"
+  "_build/install/default/lib/conway/opam"
+]
+bin: [
+  "_build/install/default/bin/conway"
+]
